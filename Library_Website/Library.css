@@ -1,0 +1,180 @@
+	body
+	{
+		font-family: "Veranda", Sans-serif;
+		margin-right: 0px;
+		margin-left: 0px;
+		background-color: White;
+		margin: 0px;
+		padding: 0px;
+		text-align: Center;
+	}
+	
+	th
+	{
+		border-bottom: 1px solid #262BD6;
+		font-family: "Veranda", Sans-serif;
+		font-size: 15px;
+		text-indent: 5px;
+		text-align: center;
+		background: White;
+		border-spacing: 5px;
+	}
+	
+	h1
+	{
+		font-family: "Veranda", Sans-serif;
+		color: White;
+		background-color: #2D80F4;
+		margin-top: 0%;
+		margin-bottom: 20px;
+		margin-right: 0px;
+		margin-left: 0px;
+		height: 40px;
+		border-bottom: thick solid #FFBA31;
+		text-align: center;
+		padding: 5px;
+	}
+	
+	#Banner
+	{
+		font-family: "Veranda", Sans-serif;
+		color: White;
+		background-color: #2D80F4;
+		margin-top: 0%;
+		margin-bottom: 0px;
+		margin-right: 0px;
+		margin-left: 0px;
+		height: 40px;
+		border-bottom: thick solid #FFBA31;
+		text-align: center;
+		padding: 5px;
+	}
+	
+	#Footer
+	{
+		font-family: "Veranda", Sans-serif;
+		background-color: #7CC1DB;
+		color: White;
+		margin: 0px;
+		height: 20px;
+		border-top: thick solid #F4C776;
+		text-align: center;
+		position: fixed;
+		bottom: 0px;
+		width: 100%;
+		padding: 5px;
+	}
+	
+	h2
+	{
+		font-family: "Veranda", Sans-serif;
+		color: White;
+		background-color: #2DACF4;
+		margin-top: 0px;
+		margin-bottom: 30px;
+		margin-right: 0px;
+		margin-left: 0px;
+		height: 29px;
+		border-bottom: thick solid #FFBA31;
+		text-align: center;
+		padding: 3px;
+	}
+	
+	a
+	{
+		font-family: "Veranda", Sans-serif;
+		font-size: 12.5px;
+		text-decoration: none;
+		color: #2D80F4;
+		margin: 0 auto;
+		width: 60px;
+	}
+	
+	a:hover
+	{
+		font-family: "Veranda", Sans-serif;
+		font-size: 12.5px;
+		color: #FFBA31;
+		margin: 0 auto;
+		width: 60px;
+	}
+	
+	p
+	{
+		margin-top: 40px;
+		font-family: "Veranda", Sans-serif;
+		font-size: 20px;
+		text-indent: 25px;
+	}
+	
+	table
+	{
+		font-family: "Veranda", Sans-serif;
+		font-size: 15px;
+		text-indent: 5px;
+		text-align: center;
+		background: White;
+		border-color: #262BD6;
+		border-spacing: 5px;
+	}
+	
+	#DispTab
+	{
+		font-family: "Veranda", Sans-serif;
+		font-size: 12.5px;
+		text-indent: 5px;
+		text-align: center;
+		border-spacing: 5px;
+		width: 750px;
+		height: 200px;
+	}
+	
+	#index
+	{
+		font-family: "Veranda", Sans-serif;
+		font-size: 25px;
+		text-decoration: none;
+		font: arial;
+		color: #FFBA31;
+		margin: 0 auto;
+		width: 60px;
+		text-align: center;
+	}
+	
+	#index:hover
+	{
+		font-family: "Veranda", Sans-serif;
+		font-size: 25px;
+		color: #CCF6FD;
+		margin: 0 auto;
+		width: 60px;
+	}
+	
+	#link
+	{
+		font-family: "Veranda", Sans-serif;
+		font-size: 15px;
+		background-color: White;
+		color: #FFBA31;
+		margin: 0 auto;
+	}
+	
+	
+	#unRes
+	{
+		font-family: "Veranda", Sans-serif;
+		font-size: 12.5px;
+		text-decoration: none;
+		color: #FFBA31;
+		margin: 0 auto;
+		width: 60px;
+	}
+	
+	#unRes:hover
+	{
+		font-family: "Veranda", Sans-serif;
+		font-size: 12.5px;
+		color: Red;
+		margin: 0 auto;
+		width: 60px;
+	}
